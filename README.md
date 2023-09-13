@@ -3,6 +3,7 @@
 
 ## Projects
 ### SQL Project
-[Link](https://github.com/louisjxn/Repository/blob/main/insurance.sql)
+
+[SQL Project : Health Insurance Analysis](https://github.com/louisjxn/Repository/blob/main/insurance.sql)
 
 
