@@ -3,6 +3,6 @@
 
 ## Projects
 ### SQL Project
-[Link]https://github.com/louisjxn/Repository/blob/main/insurance.sql
+[Link](https://github.com/louisjxn/Repository/blob/main/insurance.sql)
 
 
