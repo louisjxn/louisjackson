@@ -2,4 +2,7 @@
 
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
+### SQL Project
+[Link]https://github.com/louisjxn/Repository/blob/main/insurance.sql
+
+
